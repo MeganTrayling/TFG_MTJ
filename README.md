@@ -1,10 +1,15 @@
 #####TRABAJO DE FIN DE GRADO 2024
 
 Estudio y Desarrollo de una Herramienta de Diagnóstico para Trastornos Mentales en Clínica
+
 Grado de Biomedicina
+
 Universidad Alfonso X El Sabio (UAX)
+
 Desarrollado por Megan Trayling Jiménez
+
 Tutora: Irene del Hierro García
+
 Co-tutora: Alejandra Gutiérrez González
 ################################################################################################################################
 
