@@ -1,0 +1,63 @@
+RESULTADO DEL FORMULARIO
+
+
+Nombre: 	Juan José
+Apellidos: 	García García
+Edad: 	45
+Sexo Biológico: 	Masculino
+Género: 	Hombre
+
+ENFERMEDADES PREVIAS: 	Bebé Prematuro, Enfermedad Autoinmunitaria, Enfermedad Coronaria, Esclerosis Tuberosa
+	Condicionantes enfermedades previas: 
+		La presencia de Depresión Mayor o Ansiedad Generalizada puede ser efecto secundario de la Enfermedad Coronaria.
+		La presencia de Depresión Mayor o Ansiedad Generalizada puede ser efecto secundario de la Esclerosis Tuberosa.
+		La presencia de Depresión Mayor o Ansiedad Generalizada puede ser efecto secundario de Bebé Prematuro.
+
+
+TEST PSICOLOGICO
+
+Trastorno Depresivo Mayor (TDM): True
+	Resultado del test: 5
+Trastorno Esquizoidet: 	False
+	Resultado del test:1
+Resultado Bipolaridad:False
+	Episodio Maníaco: 	3
+	Episodio Depresivo: 	3
+Trastorno del Espectro Autista (TEA): True
+	Resultado test: 1
+Trastorno Obsesivo-Compulsivo (TOC): True
+	Resultado del test: 3
+Trastorno de Ansiedad Generalizada (TAG): True
+	Resultado del test: 3
+
+
+TEST GENÉTICO
+
+Trastorno Depresivo Mayor (TDM): HTR2A, GRM5
+	Condicionante genético NO DETERMINANTE.
+	Presencia de genes comunes a otros trastornos mentales. 
+		El gen HTR2A es común a TDM, Esquizofrenia, TOC y Trastorno Bipolar.
+		El gen GRM5 es común a TDM y Esquizofrenia.
+Trastorno Esquizoide: BRD1, CACNA1C
+	Condicionante genético DETERMINANTE.
+	Presencia de genes comunes y específicos.
+		El gen HTR2A es común a TDM, Esquizofrenia, TOC y Trastorno Bipolar.
+		El gen GRM5 es común a TDM y Esquizofrenia.
+Trastorno Bipolar: CLOCK
+	Condicionante genético DETERMINANTE.
+	Presencia de genes específicos. Ausencia de genes comunes. 
+		El gen HTR2A es común a TDM, Esquizofrenia, TOC y Trastorno Bipolar.
+Trastorno del Espectro Autista (TEA): CNTNAP2
+	Condicionante genético DETERMINANTE.
+	Presencia de genes específicos. Ausencia de genes comunes. 
+Trastorno Obsesivo-Compulsivo (TOC): HTR2A, SLC6A4
+	Condicionante genético DETERMINANTE.
+	Presencia de genes comunes y ausencia de genes específicos hasta la fecha.
+		El gen SLC6A4 es común a TDM, TOC, Esquizofrenia y TAG.
+		El gen HTR2A es común a TDM, Esquizofrenia, TOC y Trasporno Bipolar.
+Trastorno de Ansiedad Generalizada (TAG): SLC6A4
+	Condicionante genético DETERMINANTE.
+	Presencia de genes comunes y ausencia de genes específicos hasta la fecha.
+		El gen SLC6A4 es común a TDM, TOC, Esquizofrenia y TAG.
+
+Fin de formulario
