@@ -23,7 +23,7 @@
 
 ##### Este trabajo ha sido desarrollado en Python 3.12.3v, empleando Jupyter Notebook (https://www.anaconda.com/).
 ##### El script está disponible tanto en formato .py
-##### REPOSITORIO DEL CÓDIGO: https://github.com/Bioinf-Biomedicina-IDHG/TFG
+##### REPOSITORIO DEL CÓDIGO: https://github.com/MeganTrayling/TFG_MTJ
 
 ##### Ejecución (Windows 10 v o superior):
 ##### 1.- Descargar la carpeta comprimida
