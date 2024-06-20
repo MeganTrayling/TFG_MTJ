@@ -1,0 +1,60 @@
+RESULTADO DEL FORMULARIO
+
+
+Nombre: 	Juan José
+Apellidos: 	García García
+Edad: 	45
+Sexo Biológico: 	Masculino
+Género: 	Hombre
+
+ENFERMEDADES PREVIAS: 	Diabetes, Enfermedad Coronaria, Síndrome del cromosoma X frágil
+	Condicionantes enfermedades previas: 
+		La Diabetes puede desencadenar TDM o TAG.
+		Las enferemedades coronarias pueden desencadenar TDM o TAG.
+		El Síndrome del cromosoma X frágil puede desencadenar TEA.
+
+
+TEST PSICOLOGICO
+
+Trastorno Depresivo Mayor (TDM): True
+	Resultado del test: 6
+Esquizofrenia: 	True
+	Resultado del test:4
+Resultado Bipolaridad (TB):False
+	Episodio Maníaco: 	2
+	Episodio Depresivo: 	1
+Trastorno del Espectro Autista (TEA): True
+	Resultado test: 1
+Trastorno Obsesivo-Compulsivo (TOC): True
+	Resultado del test: 1
+Trastorno de Ansiedad Generalizada (TAG): True
+	Resultado del test: 7
+
+
+TEST GENÉTICO
+
+Trastorno Depresivo Mayor (TDM): FKBP5, CYP2D6, TPH2
+	Condicionante genético DETERMINANTE.
+	Presencia de marcadores específicos. Ausencia de marcadores comunes. 
+Esquizofrenia: AKT1, ABCB1, ANK3, AVPR1A, BACE1, BECN1, BRD1, CACNA1C
+	Condicionante genético DETERMINANTE.
+	Presencia de marcadores comunes y específicos.
+	El marcador CACNA1C es común a TDM, Esquizofrenia y TB.
+	El marcador ANK3 es común a TB y Esquizofrenia.
+Trastorno Bipolar (TB): CACNA1C, CLOCK, COMT
+	Condicionante genético DETERMINANTE.
+	Presencia de marcadores específicos. Ausencia de marcadores comunes. 
+Trastorno del Espectro Autista (TEA): NRXN1, SCN1A
+	Condicionante genético DETERMINANTE.
+	Presencia de marcadores comunes y específicos.
+		El marcador NRXN1 es común a  Esquizofrenia y TEA.
+Trastorno Obsesivo-Compulsivo (TOC): SLC6A4
+	Condicionante genético DETERMINANTE.
+	Presencia de marcadores comunes y ausencia de marcadores específicos hasta la fecha.
+		El marcador SLC6A4 es común a TDM, TB, TOC y TAG.
+Trastorno de Ansiedad Generalizada (TAG): SLC6A4
+	Condicionante genético DETERMINANTE.
+	Presencia de marcadores comunes y ausencia de marcadore específicos hasta la fecha.
+		El marcador SLC6A4 es común a TDM, TB, TOC y TAG.
+
+Fin de formulario
